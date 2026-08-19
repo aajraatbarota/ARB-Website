@@ -1,2 +1,2 @@
 # ARB-Website
-Website hosting for A.R
+Website hosting for A.R.B.
